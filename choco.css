@@ -31,7 +31,7 @@
   --color-tableText: #ffffff;                  
   --color-tableTextItemAdded: #00e676;          
   --color-tableTextLight: #ffffff;             
-  --color-tableTextSubdued: #facc15;            
+  --color-tableTextSubdued: #a1a1aa;            
   --color-tableTextSelected: #facc15;          
   --color-tableTextHover: #ffffff;             
   --color-tableTextInactive: #a1a1aa;
@@ -173,19 +173,19 @@
   --color-noticeBorder: #00e676;                   
 
   
-  --color-warningBackground: #270e12;              
+  --color-warningBackground: #713f12;              
   --color-warningText: #f43f5e;                    
-  --color-warningTextLight: #fda4af;               
+  --color-warningTextLight: #ffffff;               
   --color-warningTextDark: #ffffff;                
-  --color-warningBorder: #f43f5e;                  
+  --color-warningBorder: #eab308;                  
   
   
-  --color-errorBackground: #270e12;                
+  --color-errorBackground: #5c0617;                
   --color-errorText: #ffffff;                      
-  --color-errorTextDark: #fda4af;                  
+  --color-errorTextDark: #ffffff;                  
   --color-errorTextDarker: #ffffff;                
-  --color-errorTextMenu: #f43f5e;                  
-  --color-errorBorder: #f43f5e;                    
+  --color-errorTextMenu: #ffffff;                  
+  --color-errorBorder: #e11d48;                    
 
   
   --color-upcomingBackground: #2a1f00;
