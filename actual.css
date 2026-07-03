@@ -181,7 +181,7 @@
   
   
   --color-errorBackground: #5c0617;                
-  --color-errorText: #ffffff;                      
+  --color-errorText: #f43f5e;                      
   --color-errorTextDark: #ffffff;                  
   --color-errorTextDarker: #ffffff;                
   --color-errorTextMenu: #ffffff;                  
@@ -267,7 +267,7 @@
   --color-pillBorderDark: #27272a;                  
   --color-pillBackgroundSelected: #00e676;         
   --color-pillTextSelected: #000000;              
-  --color-pillBorderSelected: #00e676;             
+  --color-pillBorderSelected: #a1a1aa;             
   --color-pillTextSubdued: #52525b;                 
   --color-floatingActionBarBackground: #a1a1aa;
   --color-floatingActionBarBorder: #a1a1aa;
